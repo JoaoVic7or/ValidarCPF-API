@@ -2,6 +2,13 @@
 
 API simples para validar números de CPF conforme as regras brasileiras.
 
+**API está disponível para teste:**
+```sh
+https://validarcpf-api.onrender.com/api/cpf/validar?cpf=12345678909
+
+Basta mudar o valor do parâmetro e usar
+```
+
 ## 🚀 Tecnologias Utilizadas
 - .NET 8
 - ASP.NET Core
